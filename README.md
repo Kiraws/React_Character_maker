@@ -1,10 +1,11 @@
-Character Generator Project
+# Character Generator Project
 Application to customize and create your very own character.
 
 
 
 
-![character (23)](https://github.com/user-attachments/assets/b4793759-333b-44b4-a0e7-39be8962257d)
+
+![project-preview](https://github.com/user-attachments/assets/1300945f-7577-42f0-94a6-09242597ad10)
 
 
 
