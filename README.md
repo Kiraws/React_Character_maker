@@ -44,8 +44,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/i.git
-cd character_maker
+git clone https://github.com/Kiraws/React_Character_maker.git
+cd React_Character_maker
 ```
 
 **Installation**
