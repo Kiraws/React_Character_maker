@@ -1,3 +1,23 @@
+Character Generator Project
+Application to customize and create your very own character.
+
+
+
+
+![character (23)](https://github.com/user-attachments/assets/b4793759-333b-44b4-a0e7-39be8962257d)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
